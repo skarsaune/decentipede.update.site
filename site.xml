@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.decentipede.eclipse.extension.feature_1.0.0.201609041026.jar" id="org.decentipede.eclipse.extension.feature" version="1.0.0.201609041026"/>
+   <feature url="features/org.decentipede.eclipse.extension.feature_1.0.0.201609200556.jar" id="org.decentipede.eclipse.extension.feature" version="1.0.0.201609200556">
+      <category name="debug"/>
+   </feature>
+   <category-def name="debug" label="Debugging">
+      <description>
+         Tools to add extra Java debugging features
+      </description>
+   </category-def>
 </site>
